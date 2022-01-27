@@ -1,16 +1,14 @@
-# ApexFarming
+# ApexFarmingRU
 
-Hello this is a basic python script, that just looking for thinks on your screen and if its founds a match it well press keys, this is made for Apex afk farming, because getting to level 10 is annoying.
-
+Здравствуйте, это базовый скрипт на python, который просто ищет что-то на вашем экране, и если он находит совпадение, он хорошо нажимает клавиши, это сделано для Apex afk farming, потому что достижение 10-го уровня раздражает.
+Источник на UC:
 https://www.unknowncheats.me/forum/apex-legends/464685-apexfarming.html
 
 
 
-HOW TO USE: https://www.youtube.com/watch?v=jDW0c-3qCkA&ab_channel=SteveKiller176
+КАК ИСПОЛЬЗОВАТЬ: https://www.youtube.com/watch?v=jDW0c-3qCkA&ab_channel=SteveKiller176
 
-YOU CAN SKIP ALL OF THIS AND JUST RUN THE INSTALL PYTHON.BAT file 
-and then run the start.bat
-
+ВЫ МОЖЕТЕ ПРОПУСТИТЬ ВСЕ ЭТО И ПРОСТО ЗАПУСТИТЬ ФАЙЛ "INSTALL PYTHON.BAT", а затем запустить start.bat
  
 pip install pywin32
 
@@ -20,25 +18,24 @@ pip install pyautogui
 
 pip install opencv-python
 
-if your getting a The Pillow package is required to use this function. error 
+Если вы получили сообщение "The Pillow package is required" то используйте эту функцию. 
 
 pip install Pillow --upgrade
 
-should fix it
+должен это исправить
+
+
+
+
+
+ПРИМЕЧАНИЕ: это также сделано для рангов, поэтому она покинет игру только тогда, когда погибнет вся команда.
 
 
 
 
 
 
-NOTE: this is made to farm ranked aswell so it well only leave the game when the full team dead's.
-
-
-
-
-
-
-for more information on how this work
+для получения дополнительной информации о том, как это работает:
 
 https://github.com/KianBrose/Image-Recognition-Botting-Tutorial
 
